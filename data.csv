@@ -1,4 +1,5 @@
 景品名,値段,制作者,画像URL,FBXURL
-金の招き猫,5000,ショップA,https://example.com/assets/cat.png,https://example.com/assets/cat.fbx
-銀の招き猫,3000,ショップA,https://example.com/assets/silver_cat.png,https://example.com/assets/silver_cat.fbx
-銅の招き猫,1000,ショップB,https://example.com/assets/bronze_cat.png,https://example.com/assets/bronze_cat.fbx
+金の招き猫,5000,ショップA,https://github.com/legisters-game/museum/blob/main/img/belt.png,https://github.com/legisters-game/museum/blob/main/mesh/go.fbx
+銀の招き猫,3000,ショップA,https://github.com/legisters-game/museum/blob/main/img/belt.png,https://github.com/legisters-game/museum/blob/main/mesh/go.fbx
+
+銅の招き猫,1000,ショップB,https://github.com/legisters-game/museum/blob/main/img/belt.png,https://github.com/legisters-game/museum/blob/main/mesh/go.fbx
