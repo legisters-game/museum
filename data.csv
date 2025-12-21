@@ -1,8 +1,9 @@
 景品名,値段,制作者,画像URL,FBXURL
 
-銅の招き猫,1000,ショップB,https://raw.githubusercontent.com/legisters-game/museum/refs/heads/main/img/belt.png,
+銅の招き猫,1000,ショップB,https://raw.githubusercontent.com/legisters-game/museum/refs/heads/main/img/belt.png,https://github.com/legisters-game/museum/raw/refs/heads/main/mesh/go.glb
 トルネードレモンさん,9999999,irukakun,https://raw.githubusercontent.com/legisters-game/museum/refs/heads/main/img/Frame%2010.png,
 testitem,2427,馬鹿たっく,https://tacksanbot.onrender.com/icons/boticon.png,
+
 
 
 
